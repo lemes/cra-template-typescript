@@ -1,5 +1,5 @@
 {
-  "name": "@lemes/cra-template-typescript",
+  "name": "cra-template-ts-lemes",
   "version": "1.0.0",
   "description": "My custom TypeScript template for Create React App",
   "main": "template.json",
