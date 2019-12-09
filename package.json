@@ -1,0 +1,17 @@
+{
+  "name": "@lemes/cra-template-typescript",
+  "version": "1.0.0",
+  "description": "My custom TypeScript template for Create React App",
+  "main": "template.json",
+  "repository": "git@github.com:lemes/cra-template-typescript.git",
+  "author": "Vinicius Lemes <vinicius.lemes@looklet.com>",
+  "license": "MIT",
+  "private": false,
+  "engines": {
+    "node": ">=8.10"
+  },
+  "files": [
+    "template",
+    "template.json"
+  ]
+}
