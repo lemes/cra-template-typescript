@@ -1,6 +1,6 @@
 {
   "name": "cra-template-ts-lemes",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "My custom TypeScript template for Create React App",
   "main": "template.json",
   "repository": "git@github.com:lemes/cra-template-typescript.git",
