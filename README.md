@@ -1,17 +1,17 @@
-# cra-template-typescript
+# cra-template-ts-lemes
 
 This is my custom TypeScript template for [Create React App](https://github.com/facebook/create-react-app).
 
-To use this template, add `--template @lemes/cra-template-typescript` when creating a new app.
+To use this template, add `--template cra-template-ts-lemes` when creating a new app.
 
 For example:
 
 ```sh
-npx create-react-app my-app --template @lemes/cra-template-typescript
+npx create-react-app my-app --template cra-template-ts-lemes
 
 # or
 
-yarn create react-app my-app --template @lemes/cra-template-typescript
+yarn create react-app my-app --template cra-template-ts-lemes
 ```
 
 For more information, please refer to:
